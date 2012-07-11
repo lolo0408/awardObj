@@ -1,0 +1,4 @@
+awardObj
+========
+
+auto bonus
